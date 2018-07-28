@@ -1,0 +1,2 @@
+# DjangoAndroidFileUploadDemo
+Android使用Retrofit上传文件到Django后端的示例
